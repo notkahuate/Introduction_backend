@@ -89,7 +89,9 @@ Registra el costo de cada servicio.
 Tablas separadas para mantener la normalización.
 
 ## 📌 Diagrama UML E-R
+
 Notion: https://meteor-braid-1d4.notion.site/Campuscar-1a8ba10c6632803cb87ee29070afe0f7
+
 Mermaid: https://www.mermaidchart.com/app/projects/72d3f443-b58d-4a02-91b5-0f3e0610d075/diagrams/60c9d369-71a6-4fb9-8c70-2e4a83ad799c/version/v0.1/edit
 
 ## 🔒 Restricciones y Validaciones
@@ -98,7 +100,8 @@ Mermaid: https://www.mermaidchart.com/app/projects/72d3f443-b58d-4a02-91b5-0f3e0
 
 ## ⚡ SQL Script
 
-[Se proporciona un script SQL con la estructura de la base de datos, incluyendo la creación de tablas, relaciones y restricciones.](https://meteor-braid-1d4.notion.site/Campuscar-1a8ba10c6632803cb87ee29070afe0f7)
+Se proporciona un script SQL con la estructura de la base de datos, incluyendo la creación de tablas, relaciones y restricciones.
+Notion: https://meteor-braid-1d4.notion.site/Campuscar-1a8ba10c6632803cb87ee29070afe0f7
 
 ## 📢 Conclusión
 
