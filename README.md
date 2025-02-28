@@ -1,10 +1,10 @@
-##Documentación de la Base de Datos - Concesionario de Vehículos
+## Documentación de la Base de Datos - Concesionario de Vehículos
 
-📌 Introducción
+## 📌 Introducción
 
 Esta documentación describe el diseño de la base de datos para un concesionario de vehículos. La base de datos permite gestionar información sobre los vehículos en stock, clientes, ventas, servicios de mantenimiento y comisiones de los vendedores.
 
-🎯 Objetivos del Diseño
+## 🎯 Objetivos del Diseño
 
 Almacenar y gestionar información sobre vehículos disponibles y vendidos.
 
@@ -16,7 +16,7 @@ Registrar las comisiones generadas por los vendedores en cada venta.
 
 Mantener la integridad y normalización de los datos.
 
-🏗️ Estructura de la Base de Datos
+## 🏗️ Estructura de la Base de Datos
 
 🔹 Vehículos
 
@@ -88,18 +88,18 @@ Registra el costo de cada servicio.
 
 Tablas separadas para mantener la normalización.
 
-📌 Diagrama UML E-R
+## 📌 Diagrama UML E-R
 https://meteor-braid-1d4.notion.site/Campuscar-1a8ba10c6632803cb87ee29070afe0f7
 
-🔒 Restricciones y Validaciones
+## 🔒 Restricciones y Validaciones
 
 ✅ Claves Primarias: ID autoincremental en todas las tablas.✅ Claves Foráneas: Garantizan la integridad referencial.✅ Restricciones de Unicidad: VIN de los vehículos y correo de los clientes deben ser únicos.✅ Estado del Vehículo: Un vehículo vendido cambia su estado a "No Disponible".
 
-⚡ SQL Script
+## ⚡ SQL Script
 
 [Se proporciona un script SQL con la estructura de la base de datos, incluyendo la creación de tablas, relaciones y restricciones.](https://meteor-braid-1d4.notion.site/Campuscar-1a8ba10c6632803cb87ee29070afe0f7)
 
-📢 Conclusión
+## 📢 Conclusión
 
 Este diseño garantiza una gestión eficiente y organizada de la información en el concesionario. La estructura está normalizada para evitar redundancias y mejorar la integridad de los datos.
 
